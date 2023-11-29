@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+
+data/
+models/
+predictions/
+scripts/
+.env
+src/production/
+src/methods/
